@@ -6,6 +6,10 @@ Machine Learning based Resume Screening web app using Streamlit.
 - Resume upload (Text, PDF, Image)
 - OCR support
 - ML prediction system
+  
+  ## 🚀 Live Demo
+👉 Click here to use the app:  
+https://resume-screening-ai-f2tgdizptwa7btnjycdye2.streamlit.app/
 
 ## Tech Stack
 Python, Streamlit, Scikit-learn, PyPDF2, Tesseract
